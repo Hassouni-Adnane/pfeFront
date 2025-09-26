@@ -1,0 +1,192 @@
+[
+  {
+    "id": 0,
+    "name": "Admin ezan",
+    "email": "ezan.shop2021@gmail.com",
+    "jobTitle": "Product Manager",
+    "password": "Addouna456@",
+    "status": "Approved",
+    "role": "admin"
+  },  
+  {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "jobTitle": "Product Manager",
+      "password": "1234",
+      "status": "Approved",
+      "role": "user"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "jobTitle": "Frontend Developer",
+      "password": "1234",
+      "status": "Pending",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "name": "Carla Gomez",
+      "email": "carla.gomez@example.com",
+      "jobTitle": "UX Designer",
+      "password": "1234",
+      "status": "Approved",
+      "role": "user"
+    },
+    {
+      "id": 4,
+      "name": "Daniel Lee",
+      "email": "daniel.lee@example.com",
+      "jobTitle": "Backend Developer",
+      "password": "1234",
+      "status": "Archived",
+      "role": "user"
+    },
+    {
+      "id": 5,
+      "name": "Eva Chen",
+      "email": "eva.chen@example.com",
+      "jobTitle": "Data Scientist",
+      "password": "1234",
+      "status": "Approved",
+      "role": "user"
+    },
+    {
+      "id": 6,
+      "name": "Frank Wagner",
+      "email": "frank.wagner@example.com",
+      "jobTitle": "DevOps Engineer",
+      "password": "1234",
+      "status": "Pending",
+      "role": "user"
+    },
+    {
+      "id": 7,
+      "name": "Grace Park",
+      "email": "grace.park@example.com",
+      "jobTitle": "Marketing Lead",
+      "password": "1234",
+      "status": "Approved",
+      "role": "user"
+    },
+    {
+      "id": 8,
+      "name": "Hassan Ali",
+      "email": "hassan.ali@example.com",
+      "jobTitle": "QA Engineer",
+      "password": "1234",
+      "status": "Approved",
+      "role": "user"
+    },
+    {
+      "id": 9,
+      "name": "Ivy Nguyen",
+      "email": "ivy.nguyen@example.com",
+      "jobTitle": "UI Designer",
+      "password": "1234",
+      "status": "Pending",
+      "role": "user"
+    },
+    {
+      "id": 10,
+      "name": "Jake Turner",
+      "email": "jake.turner@example.com",
+      "jobTitle": "Scrum Master",
+      "password": "1234",
+      "status": "Approved",
+      "role": "user"
+    },
+    {
+      "id": 11,
+      "name": "Kelly Roberts",
+      "email": "kelly.roberts@example.com",
+      "jobTitle": "HR Manager",
+      "password": "1234",
+      "status": "Approved",
+      "role": "user"
+    },
+    {
+      "id": 12,
+      "name": "Liam Patel",
+      "email": "liam.patel@example.com",
+      "jobTitle": "Android Developer",
+      "password": "1234",
+      "status": "Archived",
+      "role": "user"
+    },
+    {
+      "id": 13,
+      "name": "Mona Singh",
+      "email": "mona.singh@example.com",
+      "jobTitle": "Project Coordinator",
+      "password": "1234",
+      "status": "Pending",
+      "role": "user"
+    },
+    {
+      "id": 14,
+      "name": "Noah Brown",
+      "email": "noah.brown@example.com",
+      "jobTitle": "iOS Developer",
+      "password": "1234",
+      "status": "Approved",
+      "role": "user"
+    },
+    {
+      "id": 15,
+      "name": "Olivia King",
+      "email": "olivia.king@example.com",
+      "jobTitle": "Finance Analyst",
+      "password": "1234",
+      "status": "Pending",
+      "role": "user"
+    },
+    {
+      "id": 16,
+      "name": "Pedro Morales",
+      "email": "pedro.morales@example.com",
+      "jobTitle": "Cloud Architect",
+      "password": "1234",
+      "status": "Approved",
+      "role": "user"
+    },
+    {
+      "id": 17,
+      "name": "Quinn White",
+      "email": "quinn.white@example.com",
+      "jobTitle": "Legal Advisor",
+      "password": "1234",
+      "status": "Archived",
+      "role": "user"
+    },
+    {
+      "id": 18,
+      "name": "Rita Das",
+      "email": "rita.das@example.com",
+      "jobTitle": "Research Analyst",
+      "password": "1234",
+      "status": "Approved",
+      "role": "user"
+    },
+    {
+      "id": 19,
+      "name": "Steve Kim",
+      "email": "steve.kim@example.com",
+      "jobTitle": "Full Stack Developer",
+      "password": "1234",
+      "status": "Approved",
+      "role": "user"
+    },
+    {
+      "id": 20,
+      "name": "Tina Lopez",
+      "email": "tina.lopez@example.com",
+      "jobTitle": "Support Engineer",
+    "password": "1234",
+      "status": "Pending",
+      "role": "user"
+    }
+  ]
+  
