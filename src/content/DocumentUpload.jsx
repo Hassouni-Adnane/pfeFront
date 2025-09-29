@@ -1,4 +1,3 @@
-// src/components/DocumentUpload.jsx
 import React, { useState } from "react";
 import { useAuth } from "../auth/AuthProvider";
 import styled from "styled-components";
